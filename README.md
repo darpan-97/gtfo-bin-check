@@ -36,12 +36,19 @@ The results will be saved in a file named gtfo-bin-check-results.txt. This file 
 Example
 -------
 Fetching the list of binaries from GitHub...
+
 Total binaries found: 10
+
 ✔ Binary 'ssh' is installed.
+
 ✖ Binary 'telnet' is NOT installed.
+
 Total binaries checked: 10
+
 Summary of results:
+
 Installed binaries: 8
+
 Missing binaries: 2
 
 Contribution
